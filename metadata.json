@@ -1,0 +1,5 @@
+{
+  "name": "SQL CSV Processor",
+  "description": "A web-based simulation of a database engine that processes INSERT INTO statements and persists data into simulated flat CSV files.",
+  "requestFramePermissions": []
+}
